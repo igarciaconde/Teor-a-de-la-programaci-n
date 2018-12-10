@@ -1,8 +1,6 @@
-# Teoria-de-la-programacion
-Progamación orientada a objetos en Java.
+# programming theory
+Object oriented programming.
 
-Prácticas de porgramación en java de la asignatura teoría de la programación de 2º de ingeniería de software.
+Exercises of OOP encoded during the programming theory course.
 
-Según se avanza en las practicas se avanza en cuanto a los conocimientos de POO, patrones de programación como el patrón 'Command',
-tratamiento de errores mediante excepciones, utilización de el patrón 'modelo vista controlador' y el patrón 'observer', ambos con 
-interfaz gráfica JavaSwing. Por último la utilizacón de hebras en la práctica 6.
+During this course we've seen some of the most important OPP patterns such as Command, Polymorphism, Model-View-Controller pattern. In addition we learned how to treat errors with exceptions.
